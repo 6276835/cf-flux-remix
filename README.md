@@ -62,7 +62,7 @@ pnpm run dev
 1. 另一种方法部署到 Cloudflare Workers：
    ```
    pnpm run deploy
-   ```
+
   
 ## 环境变量
 
